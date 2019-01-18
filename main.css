@@ -1,0 +1,23 @@
+h1 {;
+    color: hotpink;
+    border: 5px solid salmon
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+
+body {
+    background-color: aquamarine;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+label {
+display: block;
+padding: 5px;
+
+}
+
+button {
+    background: lawngreen;
+    color: blueviolet;
+    padding: 25px;
+}

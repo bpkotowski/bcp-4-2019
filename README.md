@@ -1,2 +1,9 @@
 # bcp-4-2019
-boot cam day 4
+boot camp prep day 4
+
+## class notes
+
++ camelCASE
++ TitleCase
++ kebob-casea
++ snake_case 
